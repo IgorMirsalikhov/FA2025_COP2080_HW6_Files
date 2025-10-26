@@ -1,0 +1,19 @@
+DIRECTORY DIFF REPORT
+====================
+
+DIR A: p2/dir_a
+DIR B: p2/dir_b
+
+FILES ONLY IN A:
+- notes.md
+- photo.jpg
+- readme.txt
+
+FILES ONLY IN B:
+- backup.log
+- image.png
+- script.py
+
+COMMON FILES:
+- config.ini
+- data.csv
